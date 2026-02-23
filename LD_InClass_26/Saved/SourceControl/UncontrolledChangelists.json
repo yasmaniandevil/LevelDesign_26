@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/3M/UG12BFZHC7O1OM3J8HGZNU.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/D4/G1T7WM5SSYIEWA4PIEN6QZ.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/OF/EF5U41QW83ORGAVN8L9H9L.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/ModelingInClassDemo.umap",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Box_0E920ED3.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Cylinder_1761E9EA.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Box_ABC31F7C.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Cylinder_837E6B11.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Sphere_4DE46A3B.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Boolean_013513AE.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Boolean_4E4C60D3.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/Boolean_77DA93B2.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/CubeGridToolOutput_4FBB066F.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_InClass_26/Content/Levels/_GENERATED/Yasmine/CubeGridToolOutput_197F1786.uasset"
+			]
+		}
+	]
+}
