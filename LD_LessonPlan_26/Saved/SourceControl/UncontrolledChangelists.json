@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_LessonPlan_26/Content/BP_Coin.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_LessonPlan_26/Content/PrototypeLevel.umap",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_LessonPlan_26/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_LessonPlan_26/Content/BP_Counting.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_LessonPlan_26/Content/_GENERATED/Yasmine/CubeGridToolOutput_477660CB.uasset",
+				"C:/Users/batni/Documents/Teaching_26/LevelDesign_26/LD_LessonPlan_26/Content/_GENERATED/Yasmine/Box_27A7DE5C.uasset"
+			]
+		}
+	]
+}
