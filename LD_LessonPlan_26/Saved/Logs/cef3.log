@@ -1,10 +1,25 @@
-[13888:31376:0223/132204.352:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13888:24124:0223/132205.005:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[13888:31376:0223/132205.291:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13888:31376:0223/132215.269:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[39248:4936:0223/132217.507:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8CC50B5DBF4F2D556490F33432DB4FB3 will be ignored
-[22776:18644:0223/132219.156:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22776:18644:0223/132219.227:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22776:18644:0223/132229.475:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22776:18644:0223/132240.514:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[13888:31376:0223/135922.263:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[11368:49512:0301/181209.174:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11368:29496:0301/181209.875:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11368:49512:0301/181210.156:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11368:49512:0301/181218.326:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[10132:41324:0301/181219.983:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-96BD4BA65E60DFE67E05030B557681B9 will be ignored
+[11368:49512:0301/181220.703:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11368:49512:0301/181220.705:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11368:49512:0301/181220.705:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11368:49512:0301/181220.705:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11368:52240:0301/181220.754:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[23528:33864:0301/181221.987:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[23528:33864:0301/181222.022:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[23528:33864:0301/181231.507:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[23528:33864:0301/181240.930:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11368:49512:0301/181413.959:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19724:29452:0301/181426.178:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19724:29452:0301/181426.178:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11368:49512:0301/181559.266:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[11368:49512:0301/182002.889:ERROR:device_event_log_impl.cc(196)] [18:20:02.685] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[11368:49512:0301/184932.496:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[11368:49512:0301/185118.459:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[11368:49512:0301/185123.461:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[11368:49512:0301/204843.523:ERROR:device_event_log_impl.cc(196)] [20:48:43.498] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[11368:49512:0301/204845.950:ERROR:device_event_log_impl.cc(196)] [20:48:45.936] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[11368:49512:0301/212020.986:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
