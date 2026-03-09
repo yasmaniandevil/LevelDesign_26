@@ -19,6 +19,11 @@
 # Fortran module files
 *.mod
 
+# Unreal Engine temp files
+Saved/
+Intermediate/
+DerivedDataCache
+
 # Compiled Static libraries
 *.lai
 *.la
