@@ -1,18 +1,11 @@
-[46628:36296:0308/223816.062:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[46628:6480:0308/223816.386:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[46628:36296:0308/223816.547:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[46628:36296:0308/223820.135:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[14100:20168:0308/223820.872:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6222F9DECD5673E1BC5670179906A672 will be ignored
-[46628:15132:0308/223821.314:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[46628:36296:0308/223821.386:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46628:36296:0308/223821.386:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46628:36296:0308/223821.386:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46628:36296:0308/223821.386:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[46628:15132:0308/223821.389:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[47180:4836:0308/223823.668:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[47180:4836:0308/223823.699:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[47180:4836:0308/223838.507:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[47180:4836:0308/223847.423:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[36812:45500:0308/224028.889:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[36812:45500:0308/224028.889:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[46628:36296:0308/225212.117:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[40548:41332:0308/225308.283:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[40548:39000:0308/225308.326:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[40548:41332:0308/225308.341:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40548:41332:0308/225311.480:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[30440:22676:0308/225312.328:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-745CA377B0C560DD1599726DE07ACD5B will be ignored
+[24352:44580:0308/225315.159:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24352:44580:0308/225315.176:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[40548:41332:0308/225317.802:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+[24352:44580:0308/225328.593:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24352:44580:0308/225339.557:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[40548:41332:0309/000507.693:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

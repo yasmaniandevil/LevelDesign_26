@@ -23,6 +23,8 @@
 Saved/
 Intermediate/
 DerivedDataCache
+Saved/webcache_*/
+Saved/Logs/
 
 # Compiled Static libraries
 *.lai
