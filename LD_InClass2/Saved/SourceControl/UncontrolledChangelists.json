@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/_GENERATED/yasmine/Box_F7E89362.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/_GENERATED/yasmine/Combined_6414C734.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/wha.umap",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/_GENERATED/yasmine/Box_8E4E4D54.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/_GENERATED/yasmine/Cone_1A0514F0.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/_GENERATED/yasmine/Boolean_DCBA480F.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/_GENERATED/yasmine/SM_Coin.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/BP_Coin.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/WB_Coin.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/SC_Coin.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/Audio/beagle_bark.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/Audio/bark2.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/Audio/ambient1.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/Audio/ambient2.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/Audio/ambient3.uasset",
+				"/Users/yasmine/Documents/NYU_2026/LD_InClass2/Content/_GENERATED/yasmine/Box_96E9F048.uasset"
+			]
+		}
+	]
+}
