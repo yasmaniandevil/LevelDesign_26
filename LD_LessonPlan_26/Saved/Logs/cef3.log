@@ -1,9 +1,10 @@
-[28556:27724:0413/120045.141:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28556:25340:0413/120045.808:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[28556:27724:0413/120046.085:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28556:27724:0413/120052.590:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[30948:6568:0413/120053.760:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-21BC82D10906932F02E37E1686DAA220 will be ignored
-[29044:23892:0413/120056.174:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[29044:23892:0413/120056.193:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[29044:23892:0413/120106.769:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[29044:23892:0413/120120.079:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[27728:29936:0413/123240.885:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27728:29392:0413/123240.985:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27728:29936:0413/123241.038:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27728:29936:0413/123243.364:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[10276:29432:0413/123244.888:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7B26AFA93BD91F2E628B3DF459E94E04 will be ignored
+[28328:8620:0413/123247.880:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28328:8620:0413/123247.912:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28328:8620:0413/123302.285:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28328:8620:0413/123311.207:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[27728:29936:0413/123450.306:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
